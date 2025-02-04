@@ -15,3 +15,7 @@ BugReports: https://github.com/FlorianDialer/GitHubPackage/issues
 Depends: 
     R (>= 2.10)
 LazyData: true
+Imports: 
+    dplyr,
+    ggplot2,
+    sf
