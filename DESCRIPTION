@@ -12,3 +12,6 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
 URL: https://github.com/FlorianDialer/GitHubPackage
 BugReports: https://github.com/FlorianDialer/GitHubPackage/issues
+Depends: 
+    R (>= 2.10)
+LazyData: true
